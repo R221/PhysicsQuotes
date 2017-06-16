@@ -1,0 +1,7 @@
+codepen test project to do
+
+- Tweet button
+- Facebook button
+- Footer
+- CSS styling for authors
+- JS + CSS for making quote box wider with longer quotes

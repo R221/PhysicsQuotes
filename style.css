@@ -1,0 +1,74 @@
+
+.header1 {
+  text-align: center;
+  margin: 3% auto 0 auto;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 4em;
+  color: white;
+}
+.quote-box {
+  border-radius:6px;
+  position:relative;
+  margin:5% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color:#70869A;
+  opacity: 0.85;
+}
+#faQuote {
+  color: #E9EBEC;
+}
+.quote-text {
+    i{
+      font-size:2.0em;
+      margin-right: 0.4em;
+    }
+    text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:200;
+    font-size:2.1em;
+    color: white;
+    line-height: 130%;
+    opacity: 1;
+    font-family: 'Helvetica';
+    white-space: pre-wrap;
+  }
+.quote-author {
+  font-weight: 200;
+  font-size: 1.5em;
+  color: white;
+  font-family: 'Helvetica';
+  text-align: right;
+}
+.twitter-share-button {
+  margin: 6% 0 0 0;
+  padding-top: 8px;
+  height: 30px;
+  width: 40px;
+}
+.new-quote-button {
+  border-radius:5px;
+  position:relative;
+  border: 50px;
+  width: auto;
+  margin: 8% auto auto auto;
+  font-size: 1.3em;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #AEC1D1;
+  float: right;
+  cursor: pointer; cursor: hand;
+}
+.footer {
+  font-size: 1.2em;
+  text-align: center;
+  margin: 5%;
+  color: white;
+  font-family: 'Helvetica';
+}
+.github-button {
+  padding: 0;
+}
